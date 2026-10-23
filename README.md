@@ -97,21 +97,4 @@ If you plan to execute tests on BrowserStack:
 2. Configure the required browser and platform capabilities.
 3. Ensure the Selenium tests are set up to connect to BrowserStack.
 
-Do not commit access keys, passwords, or other secrets to the repository.
 
-## Future Improvements
-
-- Add assertions to validate page titles and page content.
-- Implement explicit waits for reliable test execution.
-- Add positive and negative test scenarios.
-- Integrate automated test reports.
-- Configure CI/CD execution using GitHub Actions.
-- Expand cross-browser coverage and integrate BrowserStack execution.
-
-## Author
-
-Maintained as a Java-based Selenium automation testing project for learning and practicing cross-browser testing.
-
-## License
-
-No license has been specified for this repository.
