@@ -1,0 +1,25 @@
+userName: "nuwanthijayashan_sbgirz"
+accessKey: "zea83Gz2piCgoaP3v5nX"
+
+platforms:
+  - os: Windows
+    osVersion: 11
+    browserName: Chrome
+    browserVersion: latest
+
+  - os: Windows
+    osVersion: 11
+    browserName: Firefox
+    browserVersion: latest
+
+  - os: Windows
+    osVersion: 11
+    browserName: Edge
+    browserVersion: latest
+
+buildName: "Cross Browser Demo"
+projectName: "BrowserStack Automation"
+
+debug: true
+networkLogs: true
+
